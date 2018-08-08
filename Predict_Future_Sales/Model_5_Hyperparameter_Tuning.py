@@ -4,6 +4,7 @@
 # In[1]:
 
 print('in')
+import numpy as np
 
 
 # In[2]:
