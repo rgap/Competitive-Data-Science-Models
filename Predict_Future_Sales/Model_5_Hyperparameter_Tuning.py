@@ -4,23 +4,17 @@
 # In[1]:
 
 print('in')
-import numpy as np
-import pandas as pd
-import xgboost as xgb
-from sklearn.model_selection import GridSearchCV, PredefinedSplit
-from sklearn.metrics import mean_squared_error
-import lightgbm as lgb
-import pickle
+
 
 # In[2]:
 
 
-# This is for hyperparameter tuning
-X_train = pd.DataFrame(np.load('data/X_train.npz')['X_train'])
-X_val = pd.DataFrame(np.load('data/X_val.npz')['X_val'])
+# # This is for hyperparameter tuning
+# X_train = pd.DataFrame(np.load('data/X_train.npz')['X_train'])
+# X_val = pd.DataFrame(np.load('data/X_val.npz')['X_val'])
 
-y_train = np.load('data/y_train.npz')['y_train']
-y_val = np.load('data/y_val.npz')['y_val']
+# y_train = np.load('data/y_train.npz')['y_train']
+# y_val = np.load('data/y_val.npz')['y_val']
 
 # # This is for training the final models
 # X = X_train.append(X_val)
