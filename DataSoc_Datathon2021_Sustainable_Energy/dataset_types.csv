@@ -1,0 +1,77 @@
+country,solar_consumption,consumption_type,RegulatoryQuality,gov_type
+Algeria,0.616,Medium,-1.17187881469727,Low
+Argentina,0.036,Low,-0.469625324010849,Low
+Australia,18.798,High,1.89696562290192,High
+Austria,2.756,High,1.44043624401093,High
+Azerbaijan,0.089,Low,-0.282022804021835,Low
+Bangladesh,0.535,Medium,-0.796680092811584,Low
+Belarus,0.065,Low,-0.941261410713196,Low
+Belgium,7.784,High,1.34068357944489,High
+Brazil,0.214,Medium,-0.207315519452095,Low
+Bulgaria,3.486,High,0.658517718315125,Medium
+Canada,8.228,High,1.73881983757019,High
+Chile,6.413,High,1.37306427955627,High
+China,167.304,High,-0.264474809169769,Low
+Colombia,0.0,Low,0.402009278535843,Medium
+Croatia,0.166,Low,0.356278330087662,Medium
+Cyprus,0.367,Medium,1.0526260137558,Medium
+Czechia,5.359,High,0.98640102148056,Medium
+Denmark,1.87,Medium,1.57540786266327,High
+Ecuador,0.097,Low,-1.0184543132782,Low
+Egypt,0.263,Medium,-0.923189699649811,Low
+Estonia,0.025,Low,1.69814205169678,High
+Finland,0.056,Low,1.81740760803223,High
+France,20.521,High,1.07032310962677,Medium
+Germany,95.809,High,1.81701564788818,High
+Greece,9.883,High,0.148386850953102,Medium
+Hong Kong,0.002,Low,2.15388679504395,High
+Hungary,0.614,Medium,0.603421926498413,Medium
+Iceland,0.0,Low,1.27684652805328,High
+India,29.061,High,-0.306505024433136,Low
+Indonesia,0.053,Low,-0.122343853116035,Low
+Iran,0.013,Low,-1.22936856746674,Low
+Iraq,0.144,Low,-1.1250684261322,Low
+Ireland,0.013,Low,1.74096512794495,High
+Israel,3.836,High,1.31262958049774,High
+Italy,55.588,High,0.710591852664948,Medium
+Japan,108.955,High,1.42812204360962,High
+Kazakhstan,0.222,Medium,-0.0997007340192795,Low
+Kuwait,0.123,Low,-0.0738819614052773,Low
+Latvia,0.001,Low,1.08024334907532,Medium
+Lithuania,0.167,Low,1.13621854782104,High
+Luxembourg,0.252,Medium,1.72207939624786,High
+Malaysia,0.78,Medium,0.711795210838318,Medium
+Mexico,0.634,Medium,0.28712186217308,Medium
+Morocco,1.01,Medium,-0.234950453042984,Low
+Netherlands,3.922,High,1.9761666059494,High
+New Zealand,0.142,Low,2.03827548027039,High
+Norway,0.06,Low,1.69796299934387,High
+Oman,0.009,Low,0.610466122627258,Medium
+Pakistan,1.658,Medium,-0.639584183692932,Low
+Peru,0.608,Medium,0.508346438407898,Medium
+Philippines,2.759,High,-0.0041013751178979,Low
+Poland,0.312,Medium,0.951995730400085,Medium
+Portugal,2.067,Medium,0.844399034976959,Medium
+Qatar,0.021,Low,0.695944368839264,Medium
+Romania,4.577,High,0.587475419044495,Medium
+Russia,1.178,Medium,-0.415562629699707,Low
+Saudi Arabia,0.325,Medium,0.0793312042951584,Low
+Singapore,0.223,Medium,2.18061208724976,High
+Slovakia,1.34,Medium,0.889051914215088,Medium
+Slovenia,0.671,Medium,0.64026939868927,Medium
+South Africa,8.233,High,0.211843520402908,Medium
+South Korea,13.6,High,1.1143251657486,High
+Spain,34.306,High,1.00860369205475,Medium
+Sri Lanka,0.209,Low,-0.100035697221756,Low
+Sweden,0.36,Medium,1.85420298576355,High
+Switzerland,3.352,High,1.91190087795258,High
+Thailand,8.492,High,0.16807022690773,Medium
+Trinidad and Tobago,0.013,Low,0.0867225825786591,Low
+Turkey,2.623,Medium,0.196142539381981,Medium
+Turkmenistan,0.018,Low,-2.09098815917969,Low
+Ukraine,1.234,Medium,-0.429534375667572,Low
+United Arab Emirates,0.853,Medium,0.972595632076263,Medium
+United Kingdom,26.174,High,1.76070868968964,High
+United States,139.37,High,1.49707615375519,High
+Uzbekistan,0.001,Low,-1.61992251873016,Low
+Vietnam,0.017,Low,-0.453792929649353,Low
