@@ -1,4 +1,10 @@
 .DS_Store
 .ipynb_checkpoints
 __pycache__
-tmp
+tmp./NMA_Caltech/task1_classic_classification/calms21_task1_test.json
+./NMA_Caltech/task1_classic_classification/taskprog_features_task1_train.json
+./NMA_Caltech/task1_classic_classification/calms21_task1_train.json
+./NMA_Caltech/task1_classic_classification/taskprog_features_task1_test.json
+./NMA_Caltech/task1_classic_classification.zip
+./NMA_Caltech/calms21_task1_train.npy
+./.git/objects/pack/pack-7f9271acc649df037bccefb0bfff75e8a9377dff.pack
